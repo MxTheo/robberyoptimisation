@@ -1,4 +1,5 @@
 # robberyoptimisation
+https://www.codingame.com/training/medium/robbery-optimisation
 
 GOAL \
 Rob is a robber. He wants to operate a last time in the neighborhood before he leaves.\
